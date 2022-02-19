@@ -3,7 +3,7 @@ I am **Machine Learning Engineer** passionate about **HPC** and **Machine Learni
 
 ## About 
 - 🌱 I’m currently learning **Cuda** and **C++**
-- 🔭 I’m currently working **Machine Learning Infrastructure**
+- 🔭 I’m currently working on **Machine Learning Infrastructure**
 - 🎨 Checkout my [**website**](https://cartermcclellan.github.io/)
 
 ## 𝗦𝘁𝗮𝘁𝘀
