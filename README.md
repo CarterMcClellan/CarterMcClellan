@@ -1,6 +1,3 @@
-### Hi there 👋
-I am **Machine Learning Engineer** passionate about **HPC** and **Machine Learning**. 
-
 ## About 
 - 🌱 I’m currently learning **Cuda** and **C++**
 - 🔭 I’m currently working on **Machine Learning Infrastructure**
