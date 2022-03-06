@@ -1,6 +1,6 @@
 ## About 
 - 🌱 I’m currently learning **Cuda** and **C++**
-- 🔭 I’m currently working on **Machine Learning Infrastructure**
+- 🔭 I’m currently working on **Machine Learning** @ [Hive](https://thehive.ai/)
 - 🎨 Checkout my [**website**](https://cartermcclellan.github.io/)
 
 ## 𝗦𝘁𝗮𝘁𝘀
