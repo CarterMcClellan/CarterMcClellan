@@ -1,5 +1,5 @@
 ## About 
-- 🌱 I’m currently learning **Cuda** and **C++**
+- 🌱 I’m currently learning **Cuda**
 - 🔭 I’m currently working on **Machine Learning** at [**Hive**](https://thehive.ai/)
 - 🎨 Checkout my [**website**](https://cartermcclellan.github.io/)
 
