@@ -1,5 +1,5 @@
 ## About 
-- 🛠️ Building [**Slang**](https://www.theslang.app/), [**cbl**](https://github.com/CarterMcClellan/cbl), [**Rustiator**](https://github.com/CarterMcClellan/Rustiator)
+- 🛠️ Building [**Lantrip**](https://www.langtrip.com/), [**cbl**](https://github.com/CarterMcClellan/cbl), [**Rustiator**](https://github.com/CarterMcClellan/Rustiator)
 - 🌱 I’m currently learning **Cuda**
 
 ## 𝗦𝘁𝗮𝘁𝘀
