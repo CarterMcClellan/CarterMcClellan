@@ -1,5 +1,5 @@
 ## About 
-- 🛠️ Building [supercontrast](https://www.supercontrast.com/), , [**cbl**](https://github.com/CarterMcClellan/cbl), [**Rustiator**](https://github.com/CarterMcClellan/Rustiator)
+- 🛠️ Building [supercontrast](https://www.supercontrast.com/), [**cbl**](https://github.com/CarterMcClellan/cbl), [**Rustiator**](https://github.com/CarterMcClellan/Rustiator)
 - Prev [**Lantrip**](https://www.langtrip.com/)
 
 ## 𝗦𝘁𝗮𝘁𝘀
