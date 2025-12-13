@@ -1,2 +1,2 @@
 ## About 
-- building
+- svgs are cool
